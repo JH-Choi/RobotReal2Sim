@@ -1,0 +1,1 @@
+python assets/scans/construct_scene_gripper.py --construct --visualize
