@@ -54,3 +54,17 @@ GSWorld/gsworld/mani_skill/examples/motionplanning/demos/*
 Genesis3DGS/data/*
 Genesis3DGS/output/*
 Genesis3DGS/__pycache__/*
+
+real2sim-eval/weights/*
+real2sim-eval/log*
+real2sim-eval/output*
+real2sim-eval/__pycache__/*
+real2sim-eval/unused/*
+real2sim-eval/slurm/*
+real2sim-eval/pyrightconfig.json
+real2sim-eval/unused/*
+real2sim-eval/slurm/*
+real2sim-eval/.gradio
+real2sim-eval/.huggingface
+
+polaris/third_party/openpi
