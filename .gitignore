@@ -50,6 +50,7 @@ __pycache__/**.cpython-310.pyc
 **/**/__pycache__/**.cpython-310.pyc
 
 GSWorld/assets  
+GSWorld/gsworld/mani_skill/examples/motionplanning/demos/*  
 Genesis3DGS/data/*
 Genesis3DGS/output/*
 Genesis3DGS/__pycache__/*
