@@ -68,3 +68,6 @@ real2sim-eval/.gradio
 real2sim-eval/.huggingface
 
 polaris/third_party/openpi
+
+PhysX-Anything/pretrain/*
+PhysX-Anything/test_demo/*
